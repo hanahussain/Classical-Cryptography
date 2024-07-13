@@ -13,6 +13,6 @@ The program will output the stripped ciphertext followed by the stripped plainte
 #### Files:
 - Substitution.java: driver class that decrypts this ciphertext
 
-- cipher3.txt: input cipher file
+- cipher.txt: input cipher file
 
 - output.txt: output plaintext file (stripped)
