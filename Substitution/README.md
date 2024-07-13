@@ -1,4 +1,4 @@
-# Permuation
+# Substitution
 A program that decrypts a monoalphabetic substitution cipher.
 
 ### Purpose 
