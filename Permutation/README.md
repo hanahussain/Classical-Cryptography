@@ -12,7 +12,7 @@ The program will output the stripped ciphertext followed by the stripped plainte
 
 #### Files: 
 
-- cipher2.txt: input ciphertext
+- cipher.txt: input ciphertext
 
 - Permutation.java: driver class that handles decryption for this ciphertext
 
